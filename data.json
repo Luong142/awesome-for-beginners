@@ -2096,5 +2096,17 @@
             ],
             "description": "Exosphere is a user-friendly client interface for OpenStack-based cloud systems."
         }
+        ,
+        {
+            "name": "Haunted Escape",
+            "link": "https://github.com/wreathe-unreal/GroupProject",
+            "label": "Good First Issue",
+            "technologies": 
+            [
+                "Unity",
+                "C#"
+            ],
+            "description": "Haunted Escape is a horror game in Unity, fun and free to play or develop"
+        }
     ]
 }
